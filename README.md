@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vii120&hide=contribs,prs&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vii120&hide=html&layout=compact&theme=gruvbox)](https://github.com/vii120/github-readme-stats)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vii120.vii120)
