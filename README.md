@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vii120&hide=html&layout=compact&theme=gruvbox)](https://github.com/vii120/github-readme-stats)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vii120.vii120)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvii120%2F&countColor=%23263759)
