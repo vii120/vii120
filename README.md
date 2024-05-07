@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vii120&hide=contribs,prs&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vii120&hide=html&layout=compact&theme=gruvbox)](https://github.com/vii120/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vii120&hide=html&layout=compact&theme=gruvbox&card_width=467)](https://github.com/vii120/github-readme-stats)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvii120%2F&countColor=%23263759)
