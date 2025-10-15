@@ -1,22 +1,14 @@
-### Hi there 👋
+### Hi, I'm Vivi 👋
 
-<!--
-**vii120/vii120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer who loves animations and gradients.  
 
-Here are some ideas to get you started:
+Check out what I'm experimenting with on [CodePen](https://codepen.io/vii120).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vii120&hide=contribs,prs&show_icons=true&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vii120&hide=html&layout=compact&theme=gruvbox&card_width=467)](https://github.com/vii120/github-readme-stats)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvii120%2F&countColor=%23263759)
+- 🔭 Tools
+  - [random gradient color generator 🎨](https://codepen.io/vii120/pen/MWzXayr)
+  - [google font preview image generator ✍️](https://codepen.io/vii120/pen/oNmPLjW)
+  - [flexbox playground 🧩](https://github.com/vii120/flexbox-playground)
+- 👾 Games
+  - [takoyaki cooking game 🐙](https://takoyaki-game.vercel.app/)
+  - [minesweeper 💣](https://vii120-minesweeper.netlify.app/)
+  - [doodle canvas 🧑‍🎨](https://github.com/vii120/doodle-canvas)
