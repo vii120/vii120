@@ -5,8 +5,10 @@ Frontend developer who loves animations and gradients.
 Check out what I’ve been playing with on my [CodePen](https://codepen.io/vii120).
 
 ### 🧙 Random little things
+  - [image trailing effect](https://codepen.io/vii120/full/azZZroJ) <!-- 2026 -->
+  - [vertical carousel](https://codepen.io/vii120/full/bNpXXYv) <!-- 2025 -->
+  - [googly eyes animation](https://codepen.io/vii120/full/OPNrVQZ) <!-- 2025 -->
   - [3d image carousel animation](https://codepen.io/vii120/full/emJxvEp) <!-- 2025 -->
-  - [mouse trail snapshot gallery](https://codepen.io/vii120/full/qEZYzRE) <!-- 2025 -->
   - [blurred image extension](https://codepen.io/vii120/full/raxYedQ) <!-- 2025 -->
 
 ### 👾 Games
