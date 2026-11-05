@@ -1,7 +1,5 @@
-## Hi, I'm Vivi 👋
+## Hi, I'm Vivi, have fun poking around 🫧
 
-Frontend developer who enjoys crafting [interactive animations](https://codepen.io/editor/vii120/full/01a0262b-04c4-7631-bc46-9a0919370c47?panel=false&show=preview) and playful [gradient effects](https://codepen.io/editor/vii120/full/01a0209a-9155-7d56-8f0b-0a866e148a15).  
+I enjoy making interactive [animations](https://codepen.io/vii120/full/KwMJeXP), playful [gradients](https://codepen.io/vii120/full/xbgzaye), a bit of [SVG filter](https://codepen.io/vii120/full/YPNLXMv) magic, and the little details that make interfaces feel alive and intuitive.
 
-Check out what I’ve been playing with on my [CodePen](https://codepen.io/vii120).
-
-Made [Wiggle Frame](https://wiggleframe.vercel.app/) for adding some wiggly emoji friends to your photos and turn them into videos 🧙
+Check out what I've been playing with on [CodePen](https://codepen.io/vii120), or come visit my [little space](https://vivitseng.com) ✨
